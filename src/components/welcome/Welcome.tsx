@@ -2,9 +2,9 @@ import React, { FC, ChangeEvent, useEffect } from 'react';
 import Form from 'react-bootstrap/Form';
 import { toast } from 'react-toastify';
 
-import { useSelector, actions, useDispatch } from '../store';
-import useQuery from '../hooks/useQuery';
-import useAPI from '../hooks/useAPI';
+import { useSelector, actions, useDispatch } from '../../store';
+import useQuery from '../../hooks/useQuery';
+import useAPI from '../../hooks/useAPI';
 
 import './Welcome.scss';
 

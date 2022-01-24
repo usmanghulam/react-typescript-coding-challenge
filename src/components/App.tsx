@@ -5,7 +5,7 @@ import 'react-toastify/dist/ReactToastify.css';
 import { ToastContainer } from 'react-toastify';
 import { Switch, Route, Redirect, NavLink } from 'react-router-dom';
 import { useHistory } from 'react-router';
-import Welcome from './Welcome';
+import Welcome from '../components/welcome/Welcome';
 import Authenticate from './user/containers/Authenticate';
 import Transactions from './transactions/containers/Transactions';
 import { useSelector } from '../store';
@@ -25,7 +25,7 @@ const App: FC = () => {
     if (Pathname !== pathname) {
       setPathname(pathname);
     }
-  })
+  });
   return (
     <div className="App">
       <nav>

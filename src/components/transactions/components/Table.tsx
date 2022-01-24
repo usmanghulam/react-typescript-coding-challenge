@@ -1,6 +1,4 @@
 import React, { FC } from 'react';
-// import { TransactionsProps } from '../interfaces/interface';
-// import { Transaction } from "../../../types";
 import { TableRow } from './TableRow';
 
 export const Table:FC<any> = ({ transactions, deleteHandler }) => {

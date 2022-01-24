@@ -1,28 +1,3 @@
-# Digital Renaissance Code Test
-
-I'm Luuk, Chief Technology Officer at [Digital Renaissance](https://thedigitalrenaissance.io/team).
-
-I wrote this test to get a sense of your:
-
-- Drive
-- Speed
-- Knowledge
-- Communication
-
-So I would like to see you work with:
-
-- SCSS
-- React
-- Redux
-- Fetch API
-- TypeScript
-
-I do not want to use too much of your time. Please stop if you feel like this test has taken too long. I designed this test to be relatively quick to do for a senior developer. Partly because you do not need to worry about cross-browser support or the visual appeal of the website. I have also added examples and included various libraries to help speed things up.
-
-I would like to receive a screen recording of you doing the exercise. You can begin recording after you have finished the installation. This is key to understanding your communication skills.
-
-Thank you for giving this test a try, I am open to hear your feedback on it. If you are not hired by us, I do still hope you can find the code I have provided here valuable. Feel free to use it in your projects.
-
 ## Installation
 
 1. Run `yarn` to install the dependencies in `package.json`
